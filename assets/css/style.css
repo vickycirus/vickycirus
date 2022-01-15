@@ -843,6 +843,7 @@ section .container {
   color: #fff;
   font-size: 28px;
 }
+
 .services .icon-box .icon::before {
   position: absolute;
   content: "";
